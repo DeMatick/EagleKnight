@@ -135,6 +135,22 @@
             }
         },
         {
+            "Key": "be985a03-f72e-4686-a742-9ce40eee2ec1",
+            "Value": {
+                "id": "03692b33-ae87-4b62-92c5-ef9c2477f1a2",
+                "resourcePath": "sprites\\sprite2\\sprite2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c0406987-0e29-4f0c-b541-f0fd705850b9",
+            "Value": {
+                "id": "866ac4b7-d8f0-4d2b-bf91-e5d6a8558601",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c439af4f-8d4f-4795-8eed-d5a07fca9f86",
             "Value": {
                 "id": "f4884b2b-2911-44d3-a4cc-0a8915cc6393",

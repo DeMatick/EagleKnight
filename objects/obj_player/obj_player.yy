@@ -1,8 +1,8 @@
 {
-    "id": "f3842bcb-7c0e-4f54-8fa2-c336c2f40eee",
+    "id": "c0406987-0e29-4f0c-b541-f0fd705850b9",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_grass",
+    "name": "obj_player",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": true,
-    "spriteId": "a09564e6-6771-425b-b142-acab8433a0a8",
+    "spriteId": "be985a03-f72e-4686-a742-9ce40eee2ec1",
     "visible": true
 }
