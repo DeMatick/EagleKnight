@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "4c6bb6ca-473a-4ae3-b6f7-c2fd48e3da73",
+            "Value": {
+                "id": "56998968-c565-45b7-a4d5-a9fbb39fc77e",
+                "resourcePath": "sprites\\Spr_Himmel\\Spr_Himmel.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4f64240a-e368-4f39-a051-948dadac5a5c",
             "Value": {
                 "id": "6e3089d8-0bb2-4660-817c-fb7d1826a225",
@@ -92,6 +100,14 @@
                 "id": "e3c52ed4-1c45-4e41-b0fd-470e25c1a2c5",
                 "resourcePath": "views\\94bb1f9c-ab44-43b2-9e6d-91a8d148ab78.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a09564e6-6771-425b-b142-acab8433a0a8",
+            "Value": {
+                "id": "7b470950-ab90-43c3-af54-dd0f6bbf8449",
+                "resourcePath": "sprites\\spr_grass\\spr_grass.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -164,6 +180,14 @@
                 "id": "0e0fd73b-6bad-4838-b77a-a26f2e6230b7",
                 "resourcePath": "views\\e240ec0b-1aa9-4d7d-9602-326888dab904.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f3842bcb-7c0e-4f54-8fa2-c336c2f40eee",
+            "Value": {
+                "id": "741b88a9-2b11-47b1-b800-f79b4e8fd92c",
+                "resourcePath": "objects\\obj_grass\\obj_grass.yy",
+                "resourceType": "GMObject"
             }
         },
         {
