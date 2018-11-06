@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "4a60ded7-6335-415f-8fe5-f113e08c4a9d",
+            "Value": {
+                "id": "b0e46349-e6f8-40e4-99bf-dae918a0cf94",
+                "resourcePath": "sprites\\spr_grasslump1\\spr_grasslump1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4bf5847d-5552-4ea5-a702-a9d33a52fb62",
             "Value": {
                 "id": "42d2a3f7-e2e4-42f4-ae91-8aaed3784894",
@@ -76,6 +84,22 @@
                 "id": "34e8d42e-6808-4ab0-b5e5-5123c3e8a446",
                 "resourcePath": "views\\6689518b-f06b-4443-bae8-561d8143a909.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6758f345-4d09-4bb8-a3e8-e35cd4de954c",
+            "Value": {
+                "id": "4ac3002f-9d51-436a-a632-1c5249754eb1",
+                "resourcePath": "objects\\obj_grasslump1\\obj_grasslump1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6926f0ac-72a8-43b2-8867-148ae609daaf",
+            "Value": {
+                "id": "8daf31c3-21ea-4f57-9ae7-ef1bb587465b",
+                "resourcePath": "objects\\obj_grasslump2\\obj_grasslump2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -236,6 +260,14 @@
                 "id": "c773022e-97bf-4417-bd07-0d2f1fdffec0",
                 "resourcePath": "views\\fc1f3642-e769-4c06-80de-47de4a5d9149.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ffc0a64e-c33d-4463-887c-cfa9ccda1a59",
+            "Value": {
+                "id": "fe0cb5f3-b7b9-4de9-b5c4-66857c4caf05",
+                "resourcePath": "sprites\\spr_grasslump2\\spr_grasslump2.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
